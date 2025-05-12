@@ -1,0 +1,23 @@
+/*Reto 1*/
+body h2 h3{
+    font-size: 20px ;
+    font-family: Courier, monospace;
+}
+/*Reto 2*/
+.contenedor a{
+    text-decoration: underline;
+    color: firebrick;
+}
+/*Reto 3*/
+.contenedor >a{
+    font-size: 20px;
+    font-weight: bold;
+}
+/*Reto 4*/
+h2 + p{
+    color: gold;
+}
+/*Reto 5*/
+h3 ~ p{
+    color: indigo;
+}
